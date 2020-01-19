@@ -62,7 +62,7 @@ void allStop(){
 
 void loop() {
   motorsForward();
-  delay(4000);
-  allStop();
   delay(2000);
+  allStop();
+  delay(3000);
 }
